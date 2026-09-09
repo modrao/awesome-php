@@ -133,8 +133,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
 * [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
-* [Veldora PHP](https://veldora.modrao.com) - A modern PHP framework for building web applications and APIs.
 * [Tempest](https://github.com/tempestphp/tempest-framework) - A framework that gets out of your way.
+* [Veldora PHP](https://veldora.modrao.com) - A modern PHP framework for building web applications and APIs.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 
 ### Framework Extras
